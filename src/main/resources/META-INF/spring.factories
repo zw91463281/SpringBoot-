@@ -1,0 +1,2 @@
+#完成自定义系统初始器的注册
+org.springframework.context.ApplicationContextInitializer=com.gzw.bootstudy.initialize.FirstIniyialize
